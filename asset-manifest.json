@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tensorflowjs-react-linear/static/css/main.de90dde8.chunk.css",
-    "main.js": "/tensorflowjs-react-linear/static/js/main.273f40fe.chunk.js",
-    "main.js.map": "/tensorflowjs-react-linear/static/js/main.273f40fe.chunk.js.map",
-    "runtime-main.js": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js",
-    "runtime-main.js.map": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js.map",
-    "static/js/2.1dc48b97.chunk.js": "/tensorflowjs-react-linear/static/js/2.1dc48b97.chunk.js",
-    "static/js/2.1dc48b97.chunk.js.map": "/tensorflowjs-react-linear/static/js/2.1dc48b97.chunk.js.map",
-    "index.html": "/tensorflowjs-react-linear/index.html",
-    "static/css/main.de90dde8.chunk.css.map": "/tensorflowjs-react-linear/static/css/main.de90dde8.chunk.css.map",
-    "static/js/2.1dc48b97.chunk.js.LICENSE.txt": "/tensorflowjs-react-linear/static/js/2.1dc48b97.chunk.js.LICENSE.txt"
+    "main.css": "/tensorflowjs-app/static/css/main.84d037d5.chunk.css",
+    "main.js": "/tensorflowjs-app/static/js/main.73336682.chunk.js",
+    "main.js.map": "/tensorflowjs-app/static/js/main.73336682.chunk.js.map",
+    "runtime-main.js": "/tensorflowjs-app/static/js/runtime-main.584b1a37.js",
+    "runtime-main.js.map": "/tensorflowjs-app/static/js/runtime-main.584b1a37.js.map",
+    "static/js/2.1dc48b97.chunk.js": "/tensorflowjs-app/static/js/2.1dc48b97.chunk.js",
+    "static/js/2.1dc48b97.chunk.js.map": "/tensorflowjs-app/static/js/2.1dc48b97.chunk.js.map",
+    "index.html": "/tensorflowjs-app/index.html",
+    "static/css/main.84d037d5.chunk.css.map": "/tensorflowjs-app/static/css/main.84d037d5.chunk.css.map",
+    "static/js/2.1dc48b97.chunk.js.LICENSE.txt": "/tensorflowjs-app/static/js/2.1dc48b97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7374ff0a.js",
+    "static/js/runtime-main.584b1a37.js",
     "static/js/2.1dc48b97.chunk.js",
-    "static/css/main.de90dde8.chunk.css",
-    "static/js/main.273f40fe.chunk.js"
+    "static/css/main.84d037d5.chunk.css",
+    "static/js/main.73336682.chunk.js"
   ]
 }
