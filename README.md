@@ -1,1 +1,1 @@
-[Demo](https://jstjyoti.github.io/tensorflowjs-react-linear)
+[Demo](https://jstjyoti.github.io/tensorflowjs-app)
